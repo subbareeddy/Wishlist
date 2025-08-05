@@ -33,7 +33,8 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone http://127.0.0.1:5500/Projects/wishlist-list-fsrnl58/Login.html.git
+  git clone https://github.com/your-username/wishlist-list-fsrnl58.git
+
 ```
 
 Open the project directory in a new window and run the html file

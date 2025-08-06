@@ -27,7 +27,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/your-username/wishlist-list-fsrnl58.git
+  git clone https://github.com/subbareeddy/Wishlist.git
 
 ```
 

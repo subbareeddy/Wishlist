@@ -13,9 +13,7 @@ Author
 Subba Reddy K - follow me on 👇
 
 
-Live Link
 
-https://wishilist.netlify.app/
 
 Run Locally
 

@@ -4,12 +4,14 @@ Wishlist/Todo list/Task List with add and delete and mark as complete features
 
 Tech Stack
 
-HTML/CSS
+HTML
+CSS
 Javascript
 
 Author
 
 Subba Reddy K - follow me on 👇
+
 GitHub
 LinkedIn
 Twitter

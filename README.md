@@ -12,9 +12,6 @@ Author
 
 Subba Reddy K - follow me on 👇
 
-GitHub
-LinkedIn
-Twitter
 
 Live Link
 

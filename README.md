@@ -13,7 +13,9 @@ Author
 Subba Reddy K - follow me on 👇
 
 
+## Live Link
 
+https://whislist.netlify.app/
 
 Run Locally
 
